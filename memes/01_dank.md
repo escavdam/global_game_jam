@@ -4,7 +4,7 @@ Cada meme afecta de forma diferente a los enemigos (normie, genz, boomer, nerd, 
 
 ## dank#1
 
-![dank#1](./dank1.gif)
+![dank#1](./imgs/dank_1.gif)
 
 - like: dank, genz
 - dislike: nerd
@@ -12,7 +12,7 @@ Cada meme afecta de forma diferente a los enemigos (normie, genz, boomer, nerd, 
 
 ## dank#2
 
-![dank#2](./dank2.jpg)
+![dank#2](./imgs/dank_2.jpg)
 
 - like: dank, nerd
 - dislike: genz
@@ -20,18 +20,29 @@ Cada meme afecta de forma diferente a los enemigos (normie, genz, boomer, nerd, 
 
 ## dank#3
 
-![dank#3](./dank3.jpg)
+![dank#3](./imgs/dank_3.jpg)
 
-- like: 
-- dislike: 
-- confusion:
+- like: genz, nerds, dank
+- dislike: boomers
+- confusion: normie
 
 ## dank#4
 
-![dank#4](./dank4.jpg)
+![dank#4](./imgs/dank_4.png)
 
-- like: 
-- dislike: 
-- confusion: 
+- like: genz, dank
+- dislike: nerds
+- confusion: boomers
+
+## dank#5
+
+![dank#5](./imgs/dank_5.png)
+
+- like: dank, genz
+- dislike: normie
+- confusion: boomer
+
+
+
 
 
